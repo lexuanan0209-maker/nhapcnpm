@@ -1,0 +1,24 @@
+{
+  "name": "nhapcnpm",
+  "version": "1.0.0",
+  "description": "Hello World!",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexuanan0209-maker/nhapcnpm.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lexuanan0209-maker/nhapcnpm/issues"
+  },
+  "homepage": "https://github.com/lexuanan0209-maker/nhapcnpm#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
